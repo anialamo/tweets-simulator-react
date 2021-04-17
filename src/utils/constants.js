@@ -1,0 +1,1 @@
+export const TWEETS_STORAGE = 'tweets_storage'
